@@ -81,3 +81,14 @@ Para mais informações ou dúvidas, entre em contato com:
 - GitHub: [seu-usuario](https://github.com/seu-usuario)
 
 Sinta-se à vontade para abrir issues ou enviar pull requests para contribuir com este projeto.
+
+
+## Git-fake
+
+A ideia é ter uma forma simples de sincronizar as mudancas com o aosp. Todos os comandos do git passam a ser o port-foward.
+
+
+```
+chmod +x /home/devtitans-2/aosp-git-repo/git-fake
+sudo ln -sf /home/devtitans-2/aosp-git-repo/git-fake /usr/local/bin/git-fake
+```
