@@ -44,6 +44,10 @@ public enum ScreenLockType {
     MANAGED(
             DevicePolicyManager.PASSWORD_QUALITY_MANAGED,
             "unlock_set_managed");
+    DEVTITANS (
+             DevicePolicyManager.PASSWORD_QUALITY_DEVTITANS,
+            "unlock_set_devtitans");
+    
 
     /**
      * The default quality of the type of lock used. For example, in the case of PIN, the default
