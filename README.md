@@ -1,4 +1,4 @@
-# DevTITANS 08 - Hands-On AOSP - Equipe 0X
+# DevTITANS 08 - Hands-On AOSP - Equipe 5
 
 ## Introdução
 Este repositório contém um trabalho prático sobre a alteração da tela de desbloqueio por padrão (pattern lockscreen) no Android Open Source Project (AOSP). Aqui você encontrará patches necessários para modificar o comportamento padrão da tela de desbloqueio do Android.
@@ -13,12 +13,16 @@ Este repositório contém um trabalho prático sobre a alteração da tela de de
 7. [Contato](#contato)
 
 ## Contribuidores
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
+<img width="505" height="64" alt="image" src="https://github.com/user-attachments/assets/532c7d23-3c87-41fa-992d-fa0f3a3fbf33" />
+<img width="505" height="64" alt="image" src="https://github.com/user-attachments/assets/a7855078-afe3-487f-9d5c-7bf63caea25f" />
+<img width="505" height="64" alt="image" src="https://github.com/user-attachments/assets/b141da34-1ed7-4feb-a11d-3f8ae442cf59" />
+<img width="505" height="64" alt="image" src="https://github.com/user-attachments/assets/e23900ff-4c39-4d31-8413-6f9d319f0289" />
+Rogério Santos
+Gabriel
+
+
+
+
 
 ### Papéis dos Contribuidores
 - **Desenvolvedor 1**
