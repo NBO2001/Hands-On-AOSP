@@ -37,6 +37,9 @@ public enum ScreenLockType {
             DevicePolicyManager.PASSWORD_QUALITY_NUMERIC,
             DevicePolicyManager.PASSWORD_QUALITY_NUMERIC_COMPLEX,
             "unlock_set_pin"),
+    DEVTITANS(
+        DevicePolicyManager.PASSWORD_QUALITY_DEVTITANS,
+        "unlock_set_devtitans"),
     PASSWORD(
             DevicePolicyManager.PASSWORD_QUALITY_ALPHABETIC,
             DevicePolicyManager.PASSWORD_QUALITY_COMPLEX,
@@ -88,6 +91,8 @@ public enum ScreenLockType {
             case DevicePolicyManager.PASSWORD_QUALITY_ALPHANUMERIC:
             case DevicePolicyManager.PASSWORD_QUALITY_COMPLEX:
                 return ScreenLockType.PASSWORD;
+            case DevicePolicyManager.PASSWORD_QUALITY_DEVTITANS:
+                return ScreenLockType.DEVTITANS;
             case DevicePolicyManager.PASSWORD_QUALITY_MANAGED:
                 return ScreenLockType.MANAGED;
             case DevicePolicyManager.PASSWORD_QUALITY_UNSPECIFIED:
